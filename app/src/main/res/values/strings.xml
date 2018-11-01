@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">测试框架</string>
+    <string name="easy_permissions">该APP需要您允许打开电话，拍摄照片和访问设备上的文件的权限</string>
+
+</resources>
